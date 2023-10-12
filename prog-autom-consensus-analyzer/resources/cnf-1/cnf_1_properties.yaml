@@ -1,0 +1,18 @@
+Organizations:
+  -
+    Name: Org1
+
+    # Probability to accept nxt transaction. based on the historical data
+    Pr: 0.995
+
+  -
+    Name: Org2
+
+    # Probability to accept nxt transaction. based on the historical data
+    Pr: 0.99
+
+  -
+    Name: Org3
+
+    # Probability to accept nxt transaction. based on the historical data
+    Pr: 0.985

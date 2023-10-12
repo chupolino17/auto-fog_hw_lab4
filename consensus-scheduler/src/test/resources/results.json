@@ -1,0 +1,28 @@
+{
+  "modelCheckResultList": [
+    {
+      "backwardTransitions": [
+        []
+      ],
+      "probability": 0.97515,
+      "expectedMessages": 3.0
+    }
+  ],
+  "specification": [
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1
+    ]
+  ],
+  "organizations": [
+    "Org1",
+    "Org2",
+    "Org3"
+  ]
+}
